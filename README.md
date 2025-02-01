@@ -54,7 +54,6 @@ The **Facial Recognition Attendance System** is a smart and efficient way to man
 - Reduces errors and proxy attendance.
 - Provides secure and efficient attendance management.
 - Generates automated reports for easy tracking.
-- Enhances accuracy and reliability in attendance recording.
 
 ## 📄 Future Enhancements
 

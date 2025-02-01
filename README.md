@@ -4,14 +4,6 @@
 
 The **Facial Recognition Attendance System** is a smart and efficient way to manage attendance using facial recognition technology. This project eliminates the need for manual attendance marking and provides a seamless, automated solution.
 
-![login](https://github.com/user-attachments/assets/1c6fd720-61f6-4fbd-84f5-6c9961264a1e)
-![dashboard](https://github.com/user-attachments/assets/6717d66c-2cee-4338-b486-a457a7a20341)
-![student](https://github.com/user-attachments/assets/08a77685-6530-4b2e-90e8-d2fee21fe759)
-![train](https://github.com/user-attachments/assets/9964b81a-4924-4801-951a-4fe4a8f348bb)
-![face attendance](https://github.com/user-attachments/assets/6ce6cf12-483c-4d98-873e-e484153bd2a8)
-![attendance sheet](https://github.com/user-attachments/assets/9d111b61-65d9-4b6e-ae2c-617e79ae65da)
-![photo](https://github.com/user-attachments/assets/95bd5e4d-f958-4698-a3a5-7ab9dcebfbea)
-![contact](https://github.com/user-attachments/assets/cd391731-57b2-4206-9d04-975b3a13408c)
 
 
 
